@@ -723,7 +723,8 @@ frame
 .mil-top-panel .mil-logo span.mil-dot:after {
   content: "";
   position: absolute;
-  left: 12px;
+  left: 33px;
+  top: -13px;
   -webkit-transform: translateY(0.5px);
           transform: translateY(0.5px);
   width: 7px;
